@@ -22,7 +22,8 @@ This is a personal portfolio website built using **HTML5**, **CSS3**, and **Boot
 
 ## 📸 Preview
 
-![Screenshot of Homepage](assets/images/portfolio-preview.png)
+![Screenshot of Homepage](<img width="137" alt="Screenshot 2025-05-06 at 01 22 03" src="https://github.com/user-attachments/assets/e048d29a-8e43-4e87-a63c-4c7b35e8857f" />)
+
 
 ---
 
