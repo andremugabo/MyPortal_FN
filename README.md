@@ -39,7 +39,7 @@ This is a personal portfolio website built using **HTML5**, **CSS3**, and **Boot
 
 ## ✍️ Author
 
-**MUGABO Andr\'e**  
+**MUGABO Andre**  
 Software Engineer | Full Stack Developer | [LinkedIn](www.linkedin.com/in/mugabo-andré-9a1a0774)
 
 ---
